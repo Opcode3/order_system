@@ -1,0 +1,12 @@
+{
+    "name": "opcode3/order_system",
+    "description": "giembs/order",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    },
+    "minimum-stability": "beta",
+    "require": {}
+}
